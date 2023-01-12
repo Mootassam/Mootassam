@@ -12,7 +12,7 @@ Welcome to my profile. I'm Mootassam working currently as a Full Stack Developer
  <img src="linux-1174928.svg" width="10%" height="10%">
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mootassam&show_icons=true&theme=radical)
+
 <!-- BLOG-POST-LIST:START -->
 
  
