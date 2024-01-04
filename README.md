@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mootassam</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
+* 🖥️  See my portfolio at [https://mootassam.vercel.app/](http://mootassam.vercel.app/)
+* ✉️  You can contact me at [mootassame@gmail.com](mailto:mootassame@gmail.com)
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mootassam&label=Profile%20views&color=0e75b6&style=flat" alt="mootassam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mootassam" alt="mootassam" /></a> </p>
