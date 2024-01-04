@@ -7,7 +7,7 @@ Welcome to my GitHub profile. I'm a passionate MERN (MongoDB, Express.js, React.
 - **Frontend:** React.js, Next.js, CSS3, Material UI, Redux, Sass, TailwindCSS
 - **Backend:** Node.js, Express.js, Fast API, GraphQL
 - **Databases:** MySQL, PostgreSQL, Firebase, MongoDB
-- **DevOps & Tools:** Docker, Linux, Git, Webpack
+- **DevOps & Tools:** Docker, Linux, Git, Webpack, Jenkins
 - **Other Technologies:** Webpack, Photoshop, Figma
 
 ## Connect with Me 🌐
